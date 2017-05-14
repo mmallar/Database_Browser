@@ -38,3 +38,8 @@ This file includes all steps needed to run the JavaFX applet.
 		- The "Select Attribute" button is currently NOT working yet.
 		- Finally, press the "Search" button to view everything from the table selected.
 
+Future Work:
+1. Finish the search button to work for whatever database is uploaded into the browser.
+2. Update the way the tables are displayed in left table area.
+3. Change table area for printed data to a JTable or something similar.
+4. Update GUI to be more user friendly/simple and better looking in general.
